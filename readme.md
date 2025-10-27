@@ -1,4 +1,5 @@
-Git notes
+Git notes 
+# Refresher notes
 
 Welcome to this project on Getting Started with Git. In this project, you will understand how to use Git, one of the most famous distributed version-control systems to track changes in files and source code in your projects during software development.
 
